@@ -1,1 +1,1 @@
-# panda-robot-IK-grasp
+# Panda-robot-IK-grasp
